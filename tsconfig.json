@@ -23,6 +23,7 @@
       "react-spring",
       "jest"
     ]
+  
   },
   "exclude": [
     "node_modules",
